@@ -19,3 +19,4 @@
 a = int(input("enter a number 1 :"))
 b = int(input("enter a number 2 :"))
 print("a is greater than b or not:" , (a+b)/2) 
+
